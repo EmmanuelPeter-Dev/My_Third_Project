@@ -1,0 +1,15 @@
+Git and Github concepts
+1. Repo: git init
+2. stage environment
+    git add filename
+    git add --all
+    git add .
+3. commit: git commit -m "message"
+4. push: git push origin branch_name
+5. pull: git pull origin branch_name
+6. clone: git clone repo_url
+7. foik/fork: 
+
+Git system configuration
+to set username: git config --global user.name "github username"
+to user email: git config --global email "github email"
